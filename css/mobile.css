@@ -1,0 +1,27 @@
+@media (max-width: 600px){
+  .products{
+   display: inherit;
+   height: auto;
+ }
+  .product{
+   margin-top: auto;
+ }
+  .main-section{
+   padding: 5%;
+ }
+  .description, .comments-container{
+   display: inherit;
+   text-align: center;
+  }
+  .description-detail{
+    width: auto;
+ }
+  .comment-card{
+    width: auto;
+    height: auto;
+    margin-bottom: 4%;
+    padding-bottom: 1em;
+  }
+
+
+}
