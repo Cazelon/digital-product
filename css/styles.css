@@ -185,3 +185,16 @@ footer p a{
   text-decoration: none;
   color: var(--white-color);
 }
+
+
+/* ------------------styles of products page */
+.col-3 img{
+  width: 80%;
+}
+
+.product-h1{
+  margin: 2.7em 0;
+}
+
+
+
