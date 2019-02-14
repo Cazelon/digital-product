@@ -1,4 +1,19 @@
-@media (max-width: 600px){
+@media screen and (max-width: 1050px){
+  .product{
+    margin-top: -250px;
+  }
+}
+
+
+@media (max-width: 700px){
+
+  .row{
+    display: inherit;
+  }
+  .col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+    width: 100%;
+  }
+
   .products{
    display: inherit;
    height: auto;
@@ -23,5 +38,25 @@
     padding-bottom: 1em;
   }
 
+  .col-3{
+    text-align: center;
+  }
+  .col-3 img{
+    max-width: 250px;
+  }
 
+  .product-h1{
+    margin: 1.5em 0.5em
+  }
+
+  .row{
+    padding: 5% 0;
+  }
+
+}
+
+@media screen and (max-width: 430px){
+  .products{
+    padding: 10%;
+  }
 }

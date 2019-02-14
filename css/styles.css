@@ -227,6 +227,16 @@ footer p a{
   color: var(--white-color);
 }
 
+/* ---------------------styles of terms page */
+.terms-container{
+  padding: 8%;
+}
+
+/* --------------------styles of faqs page */
+.faqs-container{
+  padding: 8%;
+}
+
 
 
 
